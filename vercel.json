@@ -1,0 +1,13 @@
+{
+    "rewrites": [
+      {
+        "source": "/second",
+        "destination": "/"
+      },
+      {
+        "source": "/.well-known/*",
+        "destination": "/"
+      }
+    ]
+  }
+  
